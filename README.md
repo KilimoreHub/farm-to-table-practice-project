@@ -46,6 +46,5 @@ Visited the GitHub Pages URL for the repository (https://KilimoreHub.github.io/f
 Task 5: Open Source Exploration
 10. Exploring Open Source Projects:
 Explored the "example-open-source-project" on GitHub.
-Reviewed project documentation, issues, and contribution guidelines.
-11. Opening an Issue:
-Opened a new issue in "example-open-source-project" suggesting an improvement.
+
+
